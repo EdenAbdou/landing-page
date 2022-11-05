@@ -120,3 +120,25 @@
     color: #888787;
     font-size: 18px;
 }
+
+/* Quote section */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:80px 200px;
+    background-color: #E5E7EB;
+}
+
+.quote i {
+    font-size: 36px;
+    color:#1F2937;
+    font-weight: lighter;
+}
+
+.quote b {
+    text-align: right;
+    font-size: 20px;
+    margin-right: 25px;
+}
