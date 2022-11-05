@@ -142,3 +142,40 @@
     font-size: 20px;
     margin-right: 25px;
 }
+
+/* Sign up section */
+
+.sign-up {
+    background-color: #3882F6 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin: 70px 200px;
+    padding: 50px 40px;
+}
+
+.box-items h3{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.box-items p {
+    font-size: 18px;
+    color: #e1e1e1;
+}
+
+
+.box-btn button{
+    background-color: #3882F6 ;
+    color: #F9FAF8;
+    padding:6px 20px;
+    width: 110px;
+    border-radius: 5px;
+    font-size: 16px;
+    border-color: #F9FAF8;
+    border-style: solid;
+    text-align: center;
+}
+
